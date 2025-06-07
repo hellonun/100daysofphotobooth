@@ -6,3 +6,4 @@
 * [ ] Hover button & reset state
 * [ ] Physical button
 * [ ] Share file via email
+* [ ] Bluetooth / WiFi button? (remote control)
