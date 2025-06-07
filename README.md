@@ -5,7 +5,8 @@
 * [x] Countdown scene
 * [x] Grey out button once pressed
 * [ ] Add cache frame at the end of countdown
-* [ ] Integrate facemesh
+* [ ] Integrate facemesh model
+* [ ] Integrate classification model 
 * [ ] Physical button
 * [ ] Share file via email
 * [ ] Bluetooth / WiFi button? (remote control)
