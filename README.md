@@ -7,7 +7,7 @@
 * [x] Add cache frame at the end of countdown
 * [x] Physical button
 * [x] Add sound effects
-* [ ] Integrate facemesh model
+* [ ] Integrate facemesh model (infinite zoom in/out)
 * [ ] Integrate classification model 
 * [ ] Share file via email
 * [ ] Bluetooth / WiFi button? (remote control)
